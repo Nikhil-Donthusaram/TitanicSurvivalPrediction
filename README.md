@@ -1,8 +1,7 @@
 # 🚢 Titanic Survival Prediction App
 
 This is a Machine Learning web app that predicts whether a passenger would have survived the Titanic disaster. It uses **Logistic Regression** for classification and is built with **Python**, **scikit-learn**, and **Streamlit**.
-
-👉 **Live App:** [[Titanic Survival Prediction](https://nikhildonthusaram-titanicsurvivalprediction.streamlit.app](https://titanicsurvivalprediction-s5oswswwnxujp7ubmpnfym.streamlit.app/))
+[Click to Launch](https://titanicsurvivalprediction-s5oswswwnxujp7ubmpnfym.streamlit.app/)
 
 ---
 
